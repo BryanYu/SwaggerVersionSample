@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SwaggerVersionExample</name>
+    </assembly>
+    <members>
+        <member name="T:SwaggerVersionExample.Controllers.v1.UserV1Controller">
+            <summary>
+            User v1 Controller
+            </summary>
+        </member>
+        <member name="M:SwaggerVersionExample.Controllers.v1.UserV1Controller.GetUser">
+            <summary>
+            取得使用者
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:SwaggerVersionExample.Controllers.v2.UserV2Controller">
+            <summary>
+            User v2 Controller
+            </summary>
+        </member>
+        <member name="M:SwaggerVersionExample.Controllers.v2.UserV2Controller.GetUser">
+            <summary>
+            取得使用者
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
